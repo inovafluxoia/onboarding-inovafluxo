@@ -60,7 +60,7 @@ export default function LandingPage({ onStartDemo }: LandingPageProps) {
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-white mb-3 sm:mb-4 md:mb-6 font-heading leading-tight px-2">
             Descubra Como Empresas Estão{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FFA500] to-[#FF8C00]">
-              Automatizando o Vendas
+              Automatizando suas Vendas
             </span>{" "}
             com IA — Enquanto Dormem
           </h2>
