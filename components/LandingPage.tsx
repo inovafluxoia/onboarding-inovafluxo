@@ -60,14 +60,14 @@ export default function LandingPage({ onStartDemo }: LandingPageProps) {
           <h2 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-white mb-3 sm:mb-4 md:mb-6 font-heading leading-tight px-2">
             Descubra Como Empresas Estão{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#FFA500] to-[#FF8C00]">
-              Automatizando o Fechamento de Negócios
+              Automatizando o Vendas
             </span>{" "}
             com IA — Enquanto Dormem
           </h2>
 
           <p className="text-sm sm:text-base md:text-lg text-slate-300 mb-6 sm:mb-8 md:mb-10 leading-relaxed max-w-3xl mx-auto px-4">
             Chegou o ecossistema que transforma toda sua operação comercial em uma máquina previsível de geração de
-            oportunidades. Veja ao vivo como a IA executa cada parte do seu processo — do contato ao fechamento.
+            oportunidades. Veja ao vivo como a IA executa cada parte do seu processo — do contato ao fechamento da venda.
           </p>
 
           <div className="flex flex-col items-center justify-center gap-3 mb-4 sm:mb-6 md:mb-8 px-4">
@@ -241,7 +241,7 @@ export default function LandingPage({ onStartDemo }: LandingPageProps) {
 
             <div className="inline-flex items-center gap-2 px-4 sm:px-5 py-2 sm:py-3 bg-green-500/10 rounded-lg border border-green-500/30">
               <Shield className="w-4 h-4 sm:w-5 sm:h-5 text-green-400 flex-shrink-0" />
-              <p className="text-green-400 text-xs sm:text-sm font-medium">Teste gratuito + Garantia de 30 dias</p>
+              <p className="text-green-400 text-xs sm:text-sm font-medium">Teste gratuito + Garantia de 7 dias</p>
             </div>
           </div>
         </div>
